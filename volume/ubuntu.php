@@ -98,7 +98,14 @@ section{
     <a>
         <center>
             <h1>UBUNTU</h1> 
-        <h4></h4>
+        <h4>Ubuntu es un sistema operativo de software libre y código abierto. 
+        Es una distribución de Linux basada en Debian. Puede correr en computadores 
+        de escritorio y servidores. Está orientado al usuario promedio, con un fuerte 
+        enfoque en la facilidad de uso y en mejorar la experiencia del usuario. 
+        Está compuesto de múltiple software normalmente distribuido bajo una licencia 
+        libre o de código abierto. Estadísticas web sugieren que la cuota de mercado de Ubuntu 
+        dentro de las distribuciones Linux es, aproximadamente, del 52 %, y con una tendencia a 
+        aumentar como servidor web.</h4>
         </center>
     </a>    
 </div>   
