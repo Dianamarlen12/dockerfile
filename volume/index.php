@@ -81,9 +81,8 @@ section{
           <nav>
             <ul>
               <li class="nav-item">
-                <a href="/docker.php"><li><h2>DOCKER</h2></li></a>
+                <a href="páginas/docker.php"><li><h2>DOCKER</h2></li></a>
                 <a href="/ubuntu.php"><li><h2>UBUNTU</h2></li></a>
-            </li>
             </ul>
           </nav>
     <section> 
