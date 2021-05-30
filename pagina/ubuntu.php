@@ -1,5 +1,5 @@
 <html>
-  <title>CONTENEDORES</title>
+  <title>UBUNTU</title>
   <link rel="icon" href="https://miro.medium.com/max/980/1*2hBTIlLi-8kLD0vkvTFSVA.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -38,7 +38,7 @@ nav ul{
 /*BARRA PEQUEÑA DEL TITULO*/
 nav ul li{
     display: inline-block;
-    padding: 10px;
+    padding: 6px;
 }
 
 a{
@@ -74,15 +74,14 @@ section{
       </style>
       
     <body>
-        <br>
         <header>
-            <h4>DIANA MARLEN MENESES ALEGRIA</h4>
           </header>
+          <br>
           <nav>
             <ul>
               <li class="nav-item">
-                <a href="mvc/views/aplication/docker.html"><li><h2>DOCKER</h2></li></a>
-                <a href="aplication/ubuntu.html"><li><h2>UBUNTU</h2></li></a>
+                <a href="index.php"><li><h2>CONTENEDOR</h2></li></a>
+                <a href="docker.php"><li><h2>DOCKER</h2></li></a>
             </li>
             </ul>
           </nav>
@@ -93,16 +92,13 @@ section{
 <div class="dashboard">
     <a>
         <center>
-            <img src="https://i1.wp.com/colaboratorio.net/wp-content/uploads/2017/12/package-software-docker-1.jpg?ssl=1" style="width: 600px; height: 400px;">
+            <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" style="width: 600px; height: 400px;">
         </center>
     </a>
     <a>
         <center>
-            <h2>¿QUÉ ES UN CONTENEDOR?</h2> 
-        <h4>Son un conjunto de tecnologías que juntas forman un contenedor (de Docker),este conjunto de tecnologías se llama:</h4>
-        <h4>•	Namespaces: Permite a la aplicación que corre en un contenedor de Docker tener una vista de los recursos del sistema operativo.</h4>
-        <h4>•	Cgroups: Permite limitar y medir los recursos que se encuentran disponibles en el sistema operativo.</h4>
-        <h4>•	Chroot: Permite tener en el contenedor una vista de un sistema “falso” para el mismo, es decir, crea su propio entorno de ejecución con su propio root y home.</h4>
+            <h1>UBUNTU</h1> 
+        <h4></h4>
         </center>
     </a>    
 </div>   

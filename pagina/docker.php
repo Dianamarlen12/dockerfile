@@ -80,8 +80,8 @@ section{
           <nav>
             <ul>
               <li class="nav-item">
-                <a href="index.html"><li><h2>CONTENEDOR</h2></li></a>
-                <a href="ubuntu.html"><li><h2>UBUNTU</h2></li></a>
+                <a href="index.php"><li><h2>CONTENEDOR</h2></li></a>
+                <a href="ubuntu.php"><li><h2>UBUNTU</h2></li></a>
             </li>
             </ul>
           </nav>
