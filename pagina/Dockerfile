@@ -5,5 +5,7 @@ LABEL mainteiner = "Diana Meneses"
 LABEL version = "0.1"
 
 RUN apt update 
-RUN apt install -y php
-RUN apt install -y php-mysql
+
+RUN apt install -y php-fpm
+RUN apt install -y php-sqlite3
+RUN apt install -y sqlite3
