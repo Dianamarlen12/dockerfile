@@ -25,4 +25,4 @@ docker run -it -v /workspace/dockerfile/volume:/volume -p 8080 --name docker_php
 4. RUN PHP SERVER
 
 $cd /volume
-$php -$ 0.0.0.0:8080
+$php -S 0.0.0.0:8080
