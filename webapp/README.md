@@ -20,9 +20,9 @@ docker build -t php_sqlite:v1 .
 
 3. Create docker container
 
-docker run -it -v /workspace/dockerfile/pagina -p 8080 --name docker_php -h php php_sqlite:v1
+docker run -it -v /workspace/dockerfile/volume:/volume -p 8080 --name docker_php -h php php_sqlite:v1
 
 4. RUN PHP SERVER
 
-$cd /webapp
+$cd /volume
 $php -$ 0.0.0.0:8080
